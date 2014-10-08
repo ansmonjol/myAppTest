@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/alexandre/myApp/platforms/ios/myApp/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/alexandre/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/alexandre/myApp/platforms/ios/myApp/Plugins/org.apache.cordova.device/CDVDevice.h
